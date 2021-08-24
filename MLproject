@@ -1,4 +1,4 @@
-name: tutorial
+name: tuto
 
 conda_env: conda.yaml
 
