@@ -1,4 +1,4 @@
-name: tutorial
+name: tu
 channels:
   - defaults
 dependencies:
